@@ -7,7 +7,7 @@
 
 ## Description
 
-_This application is a doctor search engine which will allow the user to search for specific doctors in their area!_
+_This application is functinoal pet Tamagotchi, it requires food, sleep and most importantly, love._
 
 ## Planning
 
